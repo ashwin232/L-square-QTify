@@ -9,10 +9,7 @@ function App() {
     <>
   <Navbar/>
   <Hero/>
-  <Card
-  followers='100M follows'
-  title='Bollywood songs'
-  />
+  <Card/>
   </>
   );
 }
